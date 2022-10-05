@@ -1,0 +1,42 @@
+.single {
+  display: flex;
+  justify-content: center;
+}
+
+.singCont {
+  display: flex;
+  width: 100%;
+  max-width: 1024px;
+}
+
+.catSing {
+  display: flex;
+  justify-content: space-between;
+}
+
+img {
+  border-radius: 0px 50px;
+}
+
+.picsin {
+  display: flex;
+  align-items: center;
+  font-weight: bold;
+}
+
+.sileft {
+  margin-left: 80px;
+}
+
+h2 {
+  color: #0000ff;
+}
+
+.diff {
+  display: flex;
+  gap: 80px;
+}
+
+.sinIcon {
+  color: #0000ff;
+}

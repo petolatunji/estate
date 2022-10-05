@@ -1,0 +1,46 @@
+.header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.headerCont {
+  width: 100%;
+  max-width: 1024px;
+  height: 70vh;
+  display: flex;
+  justify-content: space-between;
+}
+
+.hleft {
+  margin-right: 50px;
+}
+
+.htitle {
+  color: #0000ff;
+  font-size: 4rem;
+}
+
+.hp {
+  font-size: 2rem;
+}
+
+.hbtn {
+  background-color: #0000ff;
+  padding: 20px;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.hImg {
+  height: 500px;
+  width: 600px;
+  object-fit: cover;
+  border-radius: 0px 70px;
+}

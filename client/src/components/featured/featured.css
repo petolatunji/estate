@@ -1,0 +1,76 @@
+.feat {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.featCont {
+  width: 100%;
+  max-width: 1024px;
+}
+
+.featTop {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.ft {
+  color: #0000ff;
+  font-size: 32px;
+}
+.ftbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 30px;
+}
+.featBtn {
+  background-color: #0000ff;
+  padding: 15px;
+  color: white;
+  font-weight: 700;
+  font-size: 20px;
+  border: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+.feattotal {
+  display: flex;
+}
+
+.featBot {
+  text-align: center;
+  box-shadow: 10px 10px 23px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 23px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 23px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 31px 31px 31px 31px;
+  -webkit-border-radius: 31px 31px 31px 31px;
+  -moz-border-radius: 31px 31px 31px 31px;
+  padding: 20px;
+  background-color: white;
+  margin-right: 30px;
+  width: 30%;
+}
+
+.featBot:hover {
+  width: 60%;
+}
+
+.fImg {
+  height: 300px;
+  width: 300px;
+  margin-bottom: 20px;
+  object-fit: cover;
+}
+
+.featsub {
+  display: flex;
+  justify-content: space-between;
+}
+
+.fppp {
+  color: #0000ff;
+  font-weight: bold;
+}

@@ -1,0 +1,63 @@
+.foot {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.footCont {
+  width: 100%;
+  max-width: 1024px;
+  background-color: #0000ff;
+  flex-direction: column;
+}
+
+.footTab {
+  display: flex;
+  justify-content: space-between;
+
+  padding: 20px;
+  color: white;
+}
+
+.footl {
+  flex: 2;
+  margin-right: 100px;
+}
+
+.fth {
+  font-style: italic;
+  cursor: pointer;
+}
+
+.footr {
+  display: flex;
+  flex: 4;
+  gap: 100px;
+  margin-bottom: 50px;
+}
+
+.pth {
+  cursor: pointer;
+}
+
+.iconclass {
+  padding: 20px;
+  margin-top: 0;
+}
+
+.lasticon {
+  cursor: pointer;
+  margin-right: 10px;
+  border-radius: 50%;
+  background-color: white;
+  padding: 10px;
+  color: #0000ff;
+}
+
+.span {
+  color: white;
+  text-align: center;
+  justify-content: center;
+  display: flex;
+  padding: 10px;
+}

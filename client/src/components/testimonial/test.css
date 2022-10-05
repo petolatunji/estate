@@ -1,0 +1,50 @@
+.test {
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+}
+
+.testCont {
+  width: 100%;
+  max-width: 1024px;
+}
+
+.testTop {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.tt {
+  color: #0000ff;
+  font-size: 32px;
+}
+.testBottom {
+  display: flex;
+}
+.testt {
+  text-align: center;
+  box-shadow: 10px 10px 23px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 23px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 23px 0px rgba(0, 0, 0, 0.75);
+  border-radius: 31px 31px 31px 31px;
+  -webkit-border-radius: 31px 31px 31px 31px;
+  -moz-border-radius: 31px 31px 31px 31px;
+  padding: 20px;
+  background-color: white;
+  margin-right: 30px;
+  width: 80%;
+}
+
+.ttf {
+  text-align: justify;
+}
+
+.tp {
+  text-align: justify;
+}
+
+.tpp {
+  text-align: justify;
+  word-spacing: 2px;
+  tab-size: 2;
+}
